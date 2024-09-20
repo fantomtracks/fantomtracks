@@ -1,6 +1,6 @@
 ## Hello, I'm fantomtracks 👋
 
-I am a Front-end developer currently working for franceTV on [franceinfo](https://www.francetvinfo.fr/) website.
+I am a Front-end developer currently working for franceTV on [franceinfo](https://www.francetvinfo.fr/) website. I help friends create their personal or business landing pages.
 <!--
 **fantomtracks/fantomtracks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
